@@ -1,0 +1,23 @@
+package mediaaritimetica;
+
+public class Mediaaritimetica{
+
+   double num1;
+   double num2;
+   double num3;
+   double num4;
+   double num5;
+
+  public void Mostrarnumeros(){
+
+    
+
+  }
+
+  public double Calcularmedia(){
+
+    return (num1+num2+num3+num4+num5)/5;
+
+  }
+
+}
